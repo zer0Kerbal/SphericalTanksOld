@@ -1,12 +1,13 @@
 <!-- Readme.md v1.2.0.0
-DaMichel's SphericalTanks (DST)
+DaMichel's Spherical Tanks (DST)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
 
-# DaMichel's SphericalTanks  
+# DaMichel's Spherical Tanks (DST)
+
 ##### A continuation of DaMichel's SphericalTanks (DM-Tanks))  
 *originally named DM-Tanks*  
 ![SphericalTanks version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fsphericaltanks.json)

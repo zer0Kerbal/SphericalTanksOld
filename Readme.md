@@ -10,9 +10,9 @@ Also available on CKAN. -->
 
 ##### A continuation of DaMichel's SphericalTanks (DM-Tanks))  
 *originally named DM-Tanks*  
-![SphericalTanks version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fsphericaltanks.json)
-![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
-![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
+![SphericalTanks version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/mod.json)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/ksp.json) 
+![CKAN listed](https://img.shields.io/badge/CKAN-SphericalTanks-pink.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/license.json)
 > Parts mod with five SphericalTanks with 1.25 m base from 0.625 to 10 t. (612.5L - 10,000L)
 
 ## Author
@@ -106,6 +106,4 @@ Source/License: [Source and license are included in the zip.](https://www.dropbo
 ###### v1.1.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
 https://creativecommons.org/licenses/by-sa/3.0/
 
-<!--
-CC BY-NC-SA-4.0
-zer0Kerbal-->
+<!-- this file: CC BY-NC-ND 3.0 Unported by zer0Kerbal -->
